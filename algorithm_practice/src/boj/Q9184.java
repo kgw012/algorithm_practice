@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Q9184 {
 	
-	static int[][][] dp_arr = new int[21][21][21];
+	private static int[][][] dp_arr = new int[21][21][21];
 	
-	public static int w(int a, int b, int c) {
+	private static int w(int a, int b, int c) {
 		//BC
 		if(a<=0 || b<=0 || c<=0) {
 			return 1;
