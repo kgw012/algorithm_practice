@@ -1,2 +1,2 @@
 # algorithm_practice
-The solution of algorithm_problem codded by JAVA
+The JAVA solution of algorithm_problem
